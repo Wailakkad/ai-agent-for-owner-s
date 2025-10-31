@@ -1,0 +1,5 @@
+{
+  "name": "Sheetify AI Assistant",
+  "description": "An AI-powered chatbot interface for customer support, featuring text-based conversation and advanced image editing capabilities powered by the Gemini API.",
+  "requestFramePermissions": []
+}
